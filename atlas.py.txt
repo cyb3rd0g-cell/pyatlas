@@ -1,2 +1,3 @@
 Name : Manoj
-Ocp : SQL Dev
+Ocp : Python Dev
+
